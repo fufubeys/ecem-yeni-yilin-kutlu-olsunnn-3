@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.page {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #800080; /* Mor renk */
+}
+
+.next-page-button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000000; /* Mor renk */
+    border-radius: 5px;
+}
+
+video {
+    width: 100%;
+}
+
+#noButton {
+    position: relative;
+}
+
+#noButton:hover {
+    left: 10px;
+}
